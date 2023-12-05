@@ -1,0 +1,24 @@
+{
+  "name": "alexio-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.2.4",
+    "emailjs-com": "^3.2.0",
+    "imagesloaded": "^5.0.0",
+    "isotope-layout": "^3.0.6",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-player": "^2.12.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "typeit-react": "^2.6.4"
+  }
+}
